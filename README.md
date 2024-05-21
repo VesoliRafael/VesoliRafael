@@ -3,7 +3,7 @@
 #### Estudante de TI
 [![Instagram](https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram&logoColor=whiteOrangeRed)](https://instagram.com/rafalvezoli)
 
-![Rafael Oliveira GitHub stats](https://github-readme-stats.vercel.app/api?username=VesoliRafael&_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=VesoliRafael&theme=tokyonight&show_icons=true&bg_color=000)
 
 ## Tecnologias
 <div style="display: inline_block">
